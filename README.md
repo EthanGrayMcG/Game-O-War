@@ -1,2 +1,2 @@
-# garfieldcards
-This Repo will be used to store the custom designed cards for our "War Game" app for AP Computer Science Principals
+# Game O' War 
+Our App, as well as all custom designed assets will be stored here
